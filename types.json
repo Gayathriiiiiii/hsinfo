@@ -1,0 +1,11 @@
+{"record":[
+    {"id":1,"name":"Contemprory", "price":2500000},
+    {"id":2,"name":"Urban", "price":3000000},
+    {"id":3,"name":"Modern", "price":8000000},
+    {"id":4,"name":"Bohemein", "price":4500000},
+    {"id":5,"name":"Minimalistic", "price":70000000},
+    {"id":6,"name":"Industrial", "price":8900000},
+    {"id":7,"name":"Retro", "price":2500000},
+    {"id":8,"name":"Rustic", "price":6000000}
+    
+  ]}
